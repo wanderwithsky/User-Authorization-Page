@@ -140,6 +140,10 @@ button.ghost {
     opacity: 0;
 }
 
+.sign-up-container span{
+    color: #ddd;
+}
+
 .sign-up-container button{
     margin-top: 11px;
 }
